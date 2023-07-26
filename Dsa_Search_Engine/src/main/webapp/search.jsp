@@ -47,12 +47,11 @@
               h2{
               margin-top:30px;
               }
-
              </style>
     </head>
     <body>
-     <form action = "Search" class="hero">
 
+     <form action = "Search" class="hero">
                 <input type = "text" name = "Keyword"></input>
                 <button type = "Submit">Submit</button>
                 <button type = "Submit" formaction="History">History</button>
