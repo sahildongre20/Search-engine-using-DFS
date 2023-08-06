@@ -15,7 +15,7 @@ This is a search engine project that allows users to search for relevant informa
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript for front-end development.
+- HTML, CSS for front-end development.
 - Java, Servlets, and JSP for back-end implementation.
 - MySQL for database management.
 
