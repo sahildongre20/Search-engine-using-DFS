@@ -1,5 +1,4 @@
 # Search-engine-using-DFS
-# Search Engine Project
 
 
 ## Overview
@@ -24,5 +23,5 @@ This is a search engine project that allows users to search for relevant informa
 1. Clone the repository:
 
 ```bash
-https://github.com/sahildongre20/Search-engine-using-DFS
+git clone  https://github.com/sahildongre20/Search-engine-using-DFS
 cd search-engine-project
