@@ -1,5 +1,13 @@
 # Search-engine-using-DFS
 
+![Home Screen](goofle1.png)
+Home Screen
+
+![Search Results](goofle2.png)
+Search Results
+
+![History](goofle3.png)
+History
 
 ## Overview
 
